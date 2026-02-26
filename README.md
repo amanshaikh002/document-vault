@@ -124,4 +124,3 @@ The easiest way to deploy this app is via the [Vercel Platform](https://vercel.c
 
 See the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-minor changes
